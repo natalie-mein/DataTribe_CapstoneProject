@@ -36,6 +36,7 @@ natalie_meintjes/
     └── run_notebook.py
 
 *After make*
+
 natalie_meintjes/
 ├── Makefile
 ├── README.md
@@ -72,7 +73,7 @@ natalie_meintjes/
 2. Place the raw dataset in `data/owid-covid-data.csv`
 3. Run the script:
    ```bash
-   python scripts/clean_data.py```
+   python scripts/clean_data.py
 4. Explore the notebook in notebooks/
 
 ### option 2
@@ -80,5 +81,5 @@ natalie_meintjes/
 1. Clone the repository
 2. Use make:
    ```bash
-   make run```
+   make run
 3. Explore the notebook in notebooks/ in the IDE of your choice
